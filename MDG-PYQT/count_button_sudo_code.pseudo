@@ -1,0 +1,29 @@
+check box button is pressed
+The two values in array must be appended
+check if(two values are appended){
+    right button is enabled or automatice movement of screens
+}
+these are ways in which two values can be appended:
+- count button + selection in table column
+- both table column is selected
+
+the values can be deselected as well by pressing again the same column or count button
+count button if pressed{
+
+}
+
+conditions:
+    if(check the checkbox button)=true
+        if(already appended value is clicked):
+            it will be deleted from array
+        else:
+            if(empty or one value in array):
+                one value can be appended
+                if(two values in array):
+                    enable right button or move forward
+            else if(user selects more than two values in array):
+                produce error of two values already appended
+            // else if(one value need to be deselected):
+            //     it can be deleted from array
+
+    // if(two values are in array or empty or one value in array)
